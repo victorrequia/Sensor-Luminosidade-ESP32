@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../GitHub/Sensor-Luminosidade-ESP32"
+		},
+		{
+			"name": "Sensor-Luminosidade-ESP32",
+			"path": "../../../Sensor-Luminosidade-ESP32"
+		},
+		{
+			"name": "ESP32-Projeto-Final",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
